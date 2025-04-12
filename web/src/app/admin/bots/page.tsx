@@ -41,7 +41,7 @@ const Main = () => {
 
       <p className="mb-2 text-sm text-muted-foreground">
         Setup Slack bots that connect to Onyx. Once setup, you will be able to
-        ask questions to Onyx directly from Slack. Additionally, you can:
+        ask questions to Inowyx directly from Slack. Additionally, you can:
       </p>
 
       <div className="mb-2">
@@ -69,7 +69,7 @@ const Main = () => {
         >
           guide{" "}
         </a>
-        found in the Onyx documentation to get started!
+        found in the Inowyx documentation to get started!
       </p>
 
       <CreateButton href="/admin/bots/new" text="New Slack Bot" />

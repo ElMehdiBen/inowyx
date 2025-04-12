@@ -67,12 +67,12 @@ export function WelcomeModal({ user }: { user: User | null }) {
       >
         <div>
           <Text className="mb-4">
-            Onyx brings all your company&apos;s knowledge to your fingertips,
+            Inowyx brings all your company&apos;s knowledge to your fingertips,
             ready to be accessed instantly.
           </Text>
           <Text className="mb-4">
             To get started, we need to set up an API key for the Language Model
-            (LLM) provider. This key allows Onyx to interact with the AI model,
+            (LLM) provider. This key allows Inowyx to interact with the AI model,
             enabling intelligent responses to your queries.
           </Text>
 

@@ -90,7 +90,7 @@ export default function AccessRestricted() {
       </h1>
       <div className="space-y-4 text-gray-600 dark:text-gray-300">
         <p>
-          We regret to inform you that your access to Onyx has been temporarily
+          We regret to inform you that your access to Inowyx has been temporarily
           suspended due to a lapse in your subscription.
         </p>
         <p>
