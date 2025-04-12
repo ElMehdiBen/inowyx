@@ -3,7 +3,7 @@ import socket
 from enum import auto
 from enum import Enum
 
-ONYX_DEFAULT_APPLICATION_NAME = "Onyx"
+ONYX_DEFAULT_APPLICATION_NAME = "Inowyx"
 ONYX_SLACK_URL = "https://join.slack.com/t/onyx-dot-app/shared_invite/zt-2twesxdr6-5iQitKZQpgq~hYIZ~dv3KA"
 ONYX_EMAILABLE_LOGO_MAX_DIM = 512
 
