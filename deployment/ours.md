@@ -7,7 +7,3 @@ docker compose -f docker-compose.dev.yml up -d
 
 # start fresh
 docker compose -f docker-compose.dev.yml down --volumes --remove-orphans
-
-
- git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
