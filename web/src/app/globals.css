@@ -123,7 +123,7 @@
     /* agent references */
     --agent-sidebar: #be5d0e;
     --agent-hovered: #d16b10;
-    --agent: #e47011;
+    --agent: #5c4c9f;
     --lighter-agent: #f59e0b;
 
     /* Consolidated color variables */
@@ -131,7 +131,7 @@
     --neutral-300-border-medium: #d4d4d4;
     --neutral-400-border-strong: #a3a3a3;
     --background-input-background: #fefcfa;
-    --background-chatbar-sidebar: #f5f3ee;
+    --background-chatbar-sidebar: #dcdbdd;
     --background-chat-hover-selected: #e6e3dd;
     --white-card-popover: #ffffff;
     --card-popover-foreground: #0c0c0c;
@@ -345,7 +345,7 @@
     /* Agent references */
     --agent-sidebar: #be5d0e; /* You can keep or lighten/darken if desired */
     --agent-hovered: #f07c13;
-    --agent: #e47011;
+    --agent: #5c4c9f;
     --lighter-agent: #f59e0b;
   }
 }
