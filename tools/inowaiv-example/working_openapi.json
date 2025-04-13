@@ -23,9 +23,7 @@
     },
     "/api/v1/tools/query_table": {
       "get": {
-        "tags": [
-          "tools"
-        ],
+        "tags": ["tools"],
         "summary": "Query Table Data based on the input of the user",
         "responses": {
           "200": {
@@ -54,7 +52,7 @@
             "schema": {
               "type": "string",
               "title": "Db Name",
-"description": "based on the input of the user can be one of the following non_conformite,actions_correctives,responsables_causes you need to choose based on that "
+              "description": "based on the input of the user can be one of the following non_conformite,actions_correctives,responsables_causes you need to choose based on that "
             },
             "required": true
           },
@@ -74,9 +72,7 @@
     },
     "/api/v1/tools/query_internet": {
       "get": {
-        "tags": [
-          "tools"
-        ],
+        "tags": ["tools"],
         "summary": "Query Internet",
         "responses": {
           "200": {
@@ -125,11 +121,7 @@
       "ValidationError": {
         "type": "object",
         "title": "ValidationError",
-        "required": [
-          "loc",
-          "msg",
-          "type"
-        ],
+        "required": ["loc", "msg", "type"],
         "properties": {
           "loc": {
             "type": "array",
